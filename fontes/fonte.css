@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "julius";
+    src: url("julius.ttf")
+    format("truetype");
+}
+
+.julius{
+    font-family: "julius", sans-serif;
+}
+
+@font-face {
+    font-family: "elegant";
+    src: url("elegant.ttf")
+    format("truetype");
+}
+
+.elegant{
+    font-family: "elegant", monospace;
+}
+
